@@ -1,4 +1,4 @@
-./ngrok authtoken 1jskR6Sx3KzZTBwJAqqPe9Igaef_3o6wquwQBsztUrV59FRWA #For shiva850681@gmail.com email id 
+./ngrok authtoken #For host live server
 
 # Django-School-Management-System
 
